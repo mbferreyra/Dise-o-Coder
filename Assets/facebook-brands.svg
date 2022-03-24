@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 18.897637 18.897637"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="facebook-brands.svg"
+   width="0.5cm"
+   height="0.5cm"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="706"
+     id="namedview6"
+     showgrid="false"
+     inkscape:document-units="cm"
+     units="cm"
+     inkscape:zoom="2.634202"
+     inkscape:cx="198.38495"
+     inkscape:cy="67.491854"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4"
+     inkscape:document-rotation="0" />
+  <!--! Font Awesome Pro 6.0.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. -->
+  <path
+     d="m 19.030338,9.825403 c 0,-5.2128631 -4.223562,-9.43642413 -9.4364259,-9.43642413 -5.2128631,0 -9.43642408,4.22356103 -9.43642408,9.43642413 0,4.709842 3.45076358,8.613782 7.96198308,9.322275 V 12.553215 H 5.7223152 V 9.825403 H 8.1194711 V 7.746346 c 0,-2.3648136 1.407854,-3.6710734 3.5641529,-3.6710734 1.03268,0 2.112542,0.1841624 2.112542,0.1841624 v 2.3210561 h -1.190208 c -1.171943,0 -1.537604,0.7275179 -1.537604,1.4736799 v 1.771232 h 2.617086 l -0.418551,2.727812 h -2.198535 v 6.594463 c 4.51122,-0.708493 7.961984,-4.612433 7.961984,-9.322275 z"
+     id="path2"
+     style="stroke-width:1" />
+</svg>

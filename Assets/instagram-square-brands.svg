@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 18.897638 18.897637"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="instagram-square-brands.svg"
+   width="0.5cm"
+   height="0.5cm"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="706"
+     id="namedview6"
+     showgrid="false"
+     inkscape:document-units="cm"
+     units="cm"
+     inkscape:zoom="1.8626621"
+     inkscape:cx="224"
+     inkscape:cy="105.67751"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4"
+     inkscape:document-rotation="0" />
+  <!--! Font Awesome Pro 6.0.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. -->
+  <path
+     d="M 10.238642,7.7525171 A 2.3102354,2.3102354 0 1 0 12.549744,10.062752 2.3119678,2.3119678 0 0 0 10.238642,7.7525171 Z M 15.640019,5.9767453 A 2.3388209,2.3388209 0 0 0 14.322916,4.6596429 C 13.413374,4.3005902 11.2478,4.3811499 10.238642,4.3811499 c -1.0091581,0 -3.1725674,-0.083591 -4.0847078,0.278493 A 2.3388209,2.3388209 0 0 0 4.8368318,5.9767453 C 4.4782123,6.8862871 4.5583389,9.0540274 4.5583389,10.062319 c 0,1.008292 -0.080127,3.173434 0.2802249,4.086007 a 2.3388209,2.3388209 0 0 0 1.3171029,1.317103 c 0.9095413,0.359053 3.0751165,0.278493 4.0847083,0.278493 1.009591,0 3.172133,0.0836 4.084274,-0.278493 a 2.3388209,2.3388209 0 0 0 1.317103,-1.317103 c 0.36165,-0.909542 0.278492,-3.077282 0.278492,-4.085574 0,-1.0082915 0.08315,-3.1730001 -0.278492,-4.0855736 z m -5.401377,7.6375497 a 3.551543,3.551543 0 1 1 3.551543,-3.551543 3.5472119,3.5472119 0 0 1 -3.551543,3.551543 z M 13.936578,7.1911999 A 0.82898209,0.82898209 0 1 1 14.765127,6.3622179 0.82724966,0.82724966 0 0 1 13.93831,7.1929323 Z M 17.861466,0.36097657 H 2.6158179 A 2.0789519,2.0789519 0 0 0 0.53686607,2.4399285 V 17.685577 A 2.0789519,2.0789519 0 0 0 2.6158179,19.764529 H 17.861466 a 2.0789519,2.0789519 0 0 0 2.07895,-2.078952 V 2.4399285 A 2.0789519,2.0789519 0 0 0 17.861466,0.36097657 Z M 17.119973,12.921311 c -0.05587,1.110074 -0.309244,2.093678 -1.119603,2.90187 -0.810358,0.808193 -1.793096,1.066763 -2.90187,1.119602 -1.143857,0.06454 -4.5732611,0.06454 -5.7171178,0 -1.1100736,-0.05587 -2.0902128,-0.309677 -2.9018705,-1.119602 -0.8116574,-0.809925 -1.066762,-1.793961 -1.119602,-2.90187 -0.064535,-1.144289 -0.064535,-4.5741272 0,-5.7171178 0.055872,-1.1100736 0.3062122,-2.0936776 1.119602,-2.9018701 0.8133901,-0.8081929 1.7961279,-1.0637308 2.9018705,-1.1165707 1.1438567,-0.064534 4.5732608,-0.064534 5.7171178,0 1.110074,0.055871 2.093245,0.3096771 2.90187,1.119602 0.808626,0.8099254 1.066763,1.7939625 1.119603,2.9040364 0.06454,1.1399585 0.06454,4.5667642 0,5.7119202 z"
+     id="path2"
+     style="stroke-width:1" />
+</svg>
